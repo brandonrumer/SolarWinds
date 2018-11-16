@@ -3,7 +3,7 @@ Useful python scripts when interacting with SolarWinds as the inventory database
 
 ## Prerequisites
 
-These scripts were written in Python3. Many of them rely on Paramiko and the Solarwinds modules. 
+These scripts were written in Python3 for use on Windows. Many of them rely on Paramiko and the Solarwinds modules. 
 
 ### Note
 
